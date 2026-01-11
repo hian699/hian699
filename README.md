@@ -43,7 +43,7 @@
     <h4>Backend & Frameworks</h4>
     <img src="https://skillicons.dev/icons?i=spring,discordjs" /><br>
     <h4>Databases</h4>
-    <img src="https://skillicons.dev/icons?i=mssql" /><br/>
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb" /><br/>
 </div>
 
 <hr/>
